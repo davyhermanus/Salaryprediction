@@ -5,5 +5,7 @@ Build a Machine Learning web application from scratch in Python with Streamlit. 
 Watch the video on YouTube:  
 [![Alt text](https://img.youtube.com/vi/xl0N7tHiwlw/hqdefault.jpg)](https://youtu.be/xl0N7tHiwlw)  
 [https://youtu.be/xl0N7tHiwlw](https://youtu.be/xl0N7tHiwlw)
-I added the dataset from https://insights.stackoverflow.com/survey
-I leard from this video and I put the code streamlit to heroku
+
+I learned from this video. Thanks!
+and then,I added the dataset from https://insights.stackoverflow.com/survey
+My idea is to put the python lybrary code streamlit to heroku
